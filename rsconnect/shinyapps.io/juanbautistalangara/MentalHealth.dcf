@@ -1,0 +1,13 @@
+name: MentalHealth
+title: MentalHealth
+username:
+account: juanbautistalangara
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6093453
+bundleId: 5800675
+url: https://juanbautistalangara.shinyapps.io/MentalHealth/
+when: 1649987602.18625
+lastSyncTime: 1649987602.18627
+asMultiple: FALSE
+asStatic: FALSE
